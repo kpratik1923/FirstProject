@@ -1,0 +1,7 @@
+git init --> to initialize
+1. git status --> to check status
+2. git add . --> to add all file
+3. git commit -m "(msg)" --> to add modify and go for further procedure
+git remote add origin --> remotely add folder to particular repo
+4. git push -u origin main --> to push on particular repo
+5. git pull --> to pull changes from particular repo to local storage
